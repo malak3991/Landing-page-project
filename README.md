@@ -1,8 +1,11 @@
-# Landing-page-project
-Landing Page Project creating by HTML , CSS and Javascript code .  
+# Landing Page Project
 
-## Description  
-Landing Page contents: 
--Dynamically Navigation bar. 
--Section Active State. 
+Landing Page Project creating by HTML , CSS and Javascript code .
+
+## Description
+
+Landing Page contants:
+-Dynamically Navigation bar.
+-Section Active State.
 -A smooth scrolling behavior.
+
